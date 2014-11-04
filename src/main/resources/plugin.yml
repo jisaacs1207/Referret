@@ -1,0 +1,13 @@
+name: Referret
+main: io.github.jisaacs1207.referret.referret
+version: 1.0
+author: jisaacs1207
+website: http://fivekingdoms.net
+depend: [Vault]
+description: >
+             Refer people and get stuff.
+
+commands:
+   referret:
+      description: Refer people to the server and get stuff!
+      aliases: [ref, refer]
